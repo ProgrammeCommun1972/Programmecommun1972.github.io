@@ -26,8 +26,8 @@ Le programme commun peut être téléchargés aux formats suivants :
 - PDF A5 pour impression de deux pages par feuille A4 :
 [Le programme commun de la gauche 1972 — PDF A5 compact](https://ProgrammeCommun1972.github.io/Le_programme_commun_de_gouvernement_1972-a5.pdf)
 
-- Markdown : [Le programme commun de la gauche 1972 - Markdown](https://ProgrammeCommun1972.github.io///)
-- LibreOffice : [Le programme commun de la gauche 1972 - LibreOffice](https://github.com///)
+- Markdown : [Le programme commun de la gauche 1972 - Markdown](https://ProgrammeCommun1972.github.io/Le_programme_commun_de_gouvernement_1972.md)
+- LibreOffice : [Le programme commun de la gauche 1972 - LibreOffice](https://github.com/Le_programme_commun_de_gouvernement_1972.odt)
 
 La version originale a été trouvée via sa page Wikipédia :
 
