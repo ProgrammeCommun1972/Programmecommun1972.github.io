@@ -1,5 +1,5 @@
 
-out = build
+out = docs
 doc = $(out)/Le_programme_commun_de_gouvernement_1972
 src = $(wildcard src/*.md)
 
