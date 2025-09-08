@@ -5,7 +5,8 @@ on:
       - main
 permissions:
   contents: write
-  id-tokens: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -22,9 +23,9 @@ jobs:
           make
       - name: Upload static files as artifact
         id: deployment
-        uses: actions/upload-pages-artifacts@v3
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: build/
+          path: ./docs
 
   deploy:
     environment:

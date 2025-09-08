@@ -7,7 +7,7 @@ all: directories $(out)/index.html $(doc).html $(doc).md $(doc).epub $(doc).odt\
 	$(doc)-a4-print.pdf $(doc)-a4-screen.pdf $(doc)-a5.pdf
 
 directories:
-	@mkdir -p build
+	@mkdir -p docs
 
 $(doc).html: $(src)
 	pandoc -s --toc -o $@ -V fontsize=16pt \
