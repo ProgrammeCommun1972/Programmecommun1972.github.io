@@ -2,7 +2,6 @@
 title: Le progamme commun de la gauche 1972
 ---
 
-
 Le programme commun de la gauche est déjà disponible sur Internet mais dans un
 format difficilement lisible (sous forme d'images scannées).
 
@@ -33,6 +32,11 @@ La version originale a été trouvée via sa page Wikipédia :
 
 - [Le Programme Commun décrit sur Wikipedia](https://fr.wikipedia.org/wiki/Programme_commun_de_la_gauche).
 - [Programme Commun format original](http://www.m-pep.org/IMG/pdf/Texte_Programme_commun_gauche.pdf).
+
+Le code source de ce site est disponible sur
+[Github](https://github.com/ProgrammeCommun1972/Programmecommun1972.github.io/)
+et est hébergé sur [le programme commun de la gauche 1972](https://ProgrammeCommun1972.github.io/)
+.
 
 
 ## LICENCE
