@@ -31,7 +31,7 @@ La réalisation du Plan s'appuiera essentiellement sur :
 Le plan s'imposera au secteur public dans le respect de l'autonomie de gestion
 des entreprises dont il favorisera la coordination.
 
-Le plan encadrera et garantir le fonctionnement du secteur privé. Il en
+Le plan encadrera et garantira le fonctionnement du secteur privé. Il en
 déterminera les grands investissements, ainsi que leur mode de financement.
 
 Le développement des relations économiques extérieures sera assuré dans le

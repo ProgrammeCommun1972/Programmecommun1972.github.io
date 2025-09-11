@@ -201,7 +201,7 @@ La démocratisation de la gestion, telle qu'elle est prévue ci-dessus,
 s'appliquera à l'ensemble du secteur public et nationalisé, y compris aux
 entreprises où l'État exerce son contrôle financier.
 
-Ainsi le passe du secteur privé au secteur public des pôles dominants de la
+Ainsi le passage du secteur privé au secteur public des pôles dominants de la
 production et la mise en place de structures démocratiques de gestion que ce
 passage permet commanderont la transformation effective de la société et
 ouvriront la voie au socialisme.
