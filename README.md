@@ -1,6 +1,4 @@
----
-title: Le programme commun de la gauche 1972
----
+# Le programme commun de la gauche 1972
 
 Le programme commun de la gauche est déjà disponible sur Internet mais dans un
 format difficilement lisible (sous forme d'images scannées).
